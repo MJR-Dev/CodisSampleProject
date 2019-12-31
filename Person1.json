@@ -1,0 +1,126 @@
+[ {
+  "firstName" : "Abhishek",
+  "lastName" : "Srinivas",
+  "dateOfBirth" : "Sun Dec 29 21:11:04 IST 2019",
+  "nickName" : "Abhi",
+  "addressList" : [ {
+    "line1" : "678 street#34",
+    "line2" : "abbey road",
+    "country" : "uk",
+    "postalCode" : 45671
+  }, {
+    "line1" : "123 street#6",
+    "line2" : "PP road",
+    "country" : "germany",
+    "postalCode" : 11111
+  } ]
+}, {
+  "firstName" : "Karthik",
+  "lastName" : "Bhaskar",
+  "dateOfBirth" : "Mon Dec 30 05:36:47 IST 2019",
+  "nickName" : "Karthik",
+  "addressList" : [ {
+    "line1" : "345 street#9",
+    "line2" : "ABCD road",
+    "country" : "Italy",
+    "postalCode" : 77789
+  } ]
+}, {
+  "firstName" : "Saurabh",
+  "lastName" : "Kumar",
+  "dateOfBirth" : "Mon Dec 30 06:55:58 IST 2019",
+  "nickName" : "Saurabh",
+  "addressList" : [ {
+    "line1" : "111 street#11",
+    "line2" : "ghi road",
+    "country" : "Russia",
+    "postalCode" : 11112
+  } ]
+}, {
+  "firstName" : "Mohan",
+  "lastName" : "Yadav",
+  "dateOfBirth" : "Mon Dec 30 06:57:26 IST 2019",
+  "nickName" : "Mohan",
+  "addressList" : [ {
+    "line1" : "89 street#14",
+    "line2" : "jj road",
+    "country" : "Belgium",
+    "postalCode" : 11123
+  } ]
+}, {
+  "firstName" : "Moses",
+  "lastName" : "Fernandes",
+  "dateOfBirth" : "Mon Dec 30 15:51:28 IST 2019",
+  "nickName" : "Moses",
+  "addressList" : [ {
+    "line1" : "123 street#15",
+    "line2" : "ABC Road",
+    "country" : "France",
+    "postalCode" : 11223
+  } ]
+}, {
+  "firstName" : "Carol",
+  "lastName" : "Stone",
+  "dateOfBirth" : "Sat Jan 14 00:02:00 IST 1989",
+  "nickName" : "Carol",
+  "addressList" : [ {
+    "line1" : "322 street#24",
+    "line2" : "Abbey Road",
+    "country" : "Finland",
+    "postalCode" : 262626
+  } ]
+}, {
+  "firstName" : "Prashant",
+  "lastName" : "Rathore",
+  "dateOfBirth" : "Tue Jan 24 00:02:00 IST 198",
+  "nickName" : "Sunny",
+  "addressList" : [ {
+    "line1" : "789 street#17",
+    "line2" : "ERT Road",
+    "country" : "Poland",
+    "postalCode" : 12345
+  } ]
+}, {
+  "firstName" : "Ibrahim",
+  "lastName" : "Khan",
+  "dateOfBirth" : "Tue Aug 23 00:00:00 IST 1983",
+  "nickName" : "Ibrahim",
+  "addressList" : [ {
+    "line1" : "345 street#18",
+    "line2" : "DEF Road",
+    "country" : "Spain",
+    "postalCode" : 787878
+  }, {
+    "line1" : "209 street#22",
+    "line2" : "DEF Road",
+    "country" : "Croatia",
+    "postalCode" : 565656
+  } ]
+}, {
+  "firstName" : "Ben",
+  "lastName" : "Wellington",
+  "dateOfBirth" : "Thu Oct 10 00:00:00 IST 1985",
+  "nickName" : "Ben",
+  "addressList" : [ {
+    "line1" : "901 street#19",
+    "line2" : "EFG Road",
+    "country" : "Albania",
+    "postalCode" : 131313
+  }, {
+    "line1" : "222 street#20",
+    "line2" : "ERT Road",
+    "country" : "Albania",
+    "postalCode" : 141414
+  } ]
+}, {
+  "firstName" : "Sony",
+  "lastName" : "Kakkar",
+  "dateOfBirth" : "Fri Apr 17 00:00:00 IST 1987",
+  "nickName" : "Sonu",
+  "addressList" : [ {
+    "line1" : "777 street#21",
+    "line2" : "IJ Road",
+    "country" : "Azerbaijan",
+    "postalCode" : 151515
+  } ]
+} ]
